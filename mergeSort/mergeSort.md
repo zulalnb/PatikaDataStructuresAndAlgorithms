@@ -1,6 +1,6 @@
 ## [16, 21, 11, 8, 12, 22] → Merge Sort
 
-![visual](https://raw.githubusercontent.com/zulalnb/PatikaDataStructuresAndAlgorithms/refs/heads/main/mergeSort.png)
+![visual](https://github.com/zulalnb/PatikaDataStructuresAndAlgorithms/blob/main/mergeSort/mergeSort.png)
 
 ### Big-O gösterimi: O(n\*logn)
 
